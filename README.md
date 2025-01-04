@@ -38,7 +38,7 @@ Note: Ensure that the dataset path aligns with the code before running analyses.
 ## Installation
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/yourusername/Crime_Data_from_2020_to_Present.git
+   git clone https://github.com/ENKI0311/Crime_Data_from_2020_to_Present.git
    cd Crime_Data_from_2020_to_Present
    ```
 
